@@ -50,3 +50,4 @@ Control:
 | Q     | Quit the game                          |
 | ↑ / ↓ | Adjust camera angle (in third-person)  |
 
+![Game Screenshot](screenshot.png)
