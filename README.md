@@ -2,6 +2,8 @@
 
 **3D Car Obstacle Game** is a Python-based 3D driving game where players navigate a car along a road filled with obstacles like other vehicles and roadside trees. The game uses OpenGL for rendering, and includes both first-person and third-person camera views, real-time scoring, and interactive environmental controls such as day/night mode.
 
+![Game Screenshot](screenshot.png)
+
 ## Features
 
 - Smooth third-person and first-person camera switching
@@ -50,4 +52,4 @@ Control:
 | Q     | Quit the game                          |
 | ↑ / ↓ | Adjust camera angle (in third-person)  |
 
-![Game Screenshot](screenshot.png)
+
